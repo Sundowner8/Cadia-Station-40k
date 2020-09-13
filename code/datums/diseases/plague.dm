@@ -12,7 +12,7 @@ Should be near done now.
 	cure = "Spaceacillin"
 	cure_id = "spaceacillin"
 	curable = 1 //Can't be cured without an actual cure administered.
-	cure_chance = 50 //Pretty high chance of curing the disease once you get the cure.
+	cure_chance = 30 //Pretty high chance of curing the disease once you get the cure.
 	agent = "nurgle's blessings"
 	affected_species = list("Human")
 	permeability_mod = 0.75
